@@ -1,0 +1,2 @@
+- name: Spectral Scan
+  uses: SpectralOps/spectral-github-action@v1
